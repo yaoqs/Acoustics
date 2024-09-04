@@ -4,7 +4,6 @@
 Acoustics，声学
 
 [toc]
-
 <!-- TOC -->
 
 - [Acoustics](#acoustics)
@@ -45,6 +44,16 @@ Acoustics，声学
       - [Journal Citation Score](#journal-citation-score)
       - [Submit Manuscript](#submit-manuscript-1)
       - [Scope](#scope-1)
+    - [Proceedings of Meetings on Acoustics (POMA)](#proceedings-of-meetings-on-acoustics-poma)
+      - [Proceedings of Meetings on Acoustics is indexed in the following databases:](#proceedings-of-meetings-on-acoustics-is-indexed-in-the-following-databases)
+      - [publish](#publish)
+    - [Acoustics](#acoustics-1)
+      - [Impact Factor:](#impact-factor)
+      - [Aims \& Scope](#aims--scope)
+      - [Instructions for Authors](#instructions-for-authors)
+      - [Indexing \& Archiving](#indexing--archiving)
+    - [物理学报](#物理学报)
+      - [投稿须知](#投稿须知)
     - [《声学学报 / Acta Acustica》](#声学学报--acta-acustica)
       - [收录情况](#收录情况)
     - [应用声学](#应用声学)
@@ -345,7 +354,7 @@ An official publication of the International Speech Communication Association (I
 
 Computer Speech & Language publishes reports of original research related to the recognition, understanding, production, coding and mining of speech and language.
 
-Subject areas: 
+Subject areas:
 Electrical and Electronic Engineering, Language and Linguistics, Linguistics and Language, Experimental and Cognitive Psychology, Signal Processing
 
 Abstracting and indexing
@@ -364,7 +373,7 @@ Abstracting and indexing
 
 An International Journal, A publication of the European Association for Signal Processing (EURASIP).Signal Processing incorporates all aspects of the theory and practice of signal processing. It features original research work covering novel signal processing tools as well as tutorial and review articles with a focus on the signal processing issues. It is intended for a rapid dissemination of knowledge to engineers and scientists working in the research, development or practical application of signal processing.
 
-Subject areas: 
+Subject areas:
 Electrical and Electronic Engineering, Signal Processing
 
 Abstracting and indexing
@@ -433,14 +442,14 @@ All articles published in EURASIP Journal on Audio, Speech, and Music Processing
 - ACM
 - Computing and Technology
 - Current contents
-- DBLP 
-- DOAJ 
+- DBLP
+- DOAJ
 - EI-Compendex
 - OCLC
 - Journal Citation Reports/Science Edition
 - Science Citation Index Expanded
-- SCImago 
-- Scopus 
+- SCImago
+- Scopus
 - Summon by Serial Solutions
 
 The full text of all articles is deposited in digital archives around the world to guarantee long-term digital preservation. You can also access all articles published by SpringerOpen Central on SpringerLink.
@@ -576,7 +585,189 @@ A Signal Processing Letter is a five pages long paper, in the two column version
 Reproducible research
 
 The Transactions encourages authors to make their publications reproducible by making all information needed to reproduce the presented results available online. This typically requires publishing the code and data used to produce the publication`s figures and tables on a website; see the supplemental materials section of the information for authors. It gives other researchers easier access to the work, and facilitates fair comparisons.
+### [Proceedings of Meetings on Acoustics (POMA)](https://pubs.aip.org/asa/poma)
+<a id="markdown-proceedings-of-meetings-on-acoustics-poma" name="proceedings-of-meetings-on-acoustics-poma"></a>
+<img src="https://aipp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/poma/poma_cover-1478129360.jpg" width="300" alt="Proceedings of Meetings on Acoustics (POMA)">
 
+Proceedings of Meetings on Acoustics (POMA) is an editor-reviewed, open-access, online journal published by the Acoustical Society of America (ASA). Articles originate as papers presented at semiannual ASA meetings or at other cosponsored meetings. Researchers and practitioners are encouraged to submit manuscripts to POMA. Because of rapid editorial processing, POMA offers a timely venue for viewing the most current work in the broad field of acoustics. An associate editor reviews all manuscripts for clarity and correctness, and accepted manuscripts are published online as soon as possible.
+
+Articles are published within volumes tied to ASA meetings and typically organized by primary topical area:
+
+- Acoustical oceanography
+- Animal bioacoustics
+- Architectural acoustics
+- Biomedical acoustics
+- Computational Acoustics
+- Education in acoustics
+- Engineering acoustics
+- Musical acoustics
+- Noise
+- Physical acoustics
+- Psychological and physiological acoustics
+- Signal processing in acoustics
+- Speech communication
+- Structural acoustics and vibration
+- Underwater acoustics
+
+ISSN
+
+Online ISSN: 1939-800X
+#### Proceedings of Meetings on Acoustics is indexed in the following databases:
+<a id="markdown-proceedings-of-meetings-on-acoustics-is-indexed-in-the-following-databases%3A" name="proceedings-of-meetings-on-acoustics-is-indexed-in-the-following-databases%3A"></a>
+
+- Scopus
+- Crossref
+
+#### publish
+<a id="markdown-publish" name="publish"></a>
+
+- [Submit Your Manuscript](https://www.editorialmanager.com/poma/default.aspx)
+- [Preparing Your Manuscript](https://pubs.aip.org/asa/poma/pages/manuscript)
+- [Author Services](https://authorservices.aip.org/): Submit your scientific research paper with confidence. Our manuscript editing and translation services will maximize your chances of publication success.
+
+### [Acoustics](https://www.mdpi.com/journal/acoustics)
+<a id="markdown-acoustics" name="acoustics"></a>
+
+![](https://pub.mdpi-res.com/img/journals/acoustics-logo.png)
+
+
+#### Impact Factor:
+<a id="markdown-impact-factor%3A" name="impact-factor%3A"></a>
+- Impact Factor: 1.3 (2023); 5-Year Impact Factor: 1.9 (2023)
+- CiteScore: 3.7 (2023)
+
+Acoustics is an international, peer-reviewed, open access journal on acoustics science and engineering, published quarterly online by MDPI.
+
+- Open Access— free for readers, with article processing charges (APC) paid by authors or their institutions.
+- High Visibility: indexed within ESCI (Web of Science), Scopus, and other databases.
+- Journal Rank: CiteScore - Q2 (Acoustics and Ultrasonics)
+- Rapid Publication: manuscripts are peer-reviewed and a first decision is provided to authors approximately 19.4 days after submission; acceptance to publication is undertaken in 3.8 days (median values for papers published in this journal in the first half of 2024).
+- Recognition of Reviewers: reviewers who provide timely, thorough peer-review reports receive vouchers entitling them to a discount on the APC of their next publication in any MDPI journal, in appreciation of the work done.
+
+#### [Aims & Scope](https://www.mdpi.com/journal/acoustics/about)
+<a id="markdown-aims-%26-scope" name="aims-%26-scope"></a>
+
+Acoustics (ISSN 2624-599X) is dedicated to the scientific dissemination of rigorously peer-reviewed publications regarding acoustics. The journal aims to provide an interdisciplinary forum to showcase state-of-the-art research challenges on acoustics science and engineering. Acoustics publishes various types of papers, including technical notes, case reports, and project reports on analysis of acoustic engineering projects. There is no restriction on the maximum length of the papers, however, the full experimental details must be provided so that results can be reproduced. In addition, one unique feature of this journal is:
+Electronic files supplying details of calculations and experimental procedures as well as sound and video files can be deposited as supplementary materials.
+
+Scope
+
+- Noise and noise control
+- Room and building acoustics
+- Acoustic materials and metamaterials
+- Engineering acoustics
+- Structural acoustics and vibration
+- Environmental acoustics and soundscape
+- Linear and nonlinear acoustics
+- Ultrasonics
+- Aeroacoustics
+- Computational acoustics, modeling
+- Virtual acoustics
+- Audio engineering
+- Speech, voice recognition and control
+- Underwater acoustics
+- Psychoacoustics
+- AI in sound and vibration
+#### [Instructions for Authors](https://www.mdpi.com/journal/acoustics/instructions)
+<a id="markdown-instructions-for-authors" name="instructions-for-authors"></a>
+
+#### [Indexing & Archiving](https://www.mdpi.com/journal/acoustics/indexing)
+<a id="markdown-indexing-%26-archiving" name="indexing-%26-archiving"></a>
+
+Indexing & Abstracting Services
+
+- BibCnrs
+- CNKI
+- CNPIEC
+- Dimensions
+- DOAJ
+- EBSCO
+- Elsevier Databases
+  - Scopus
+- Gale
+- J-Gate
+- OpenAIRE
+- PATENTSCOPE
+- ProQuest
+- Web of Science
+  - ESCI
+
+Journal Ranking Lists
+
+- ANVUR
+- Journal Citation Reports (JCR)
+- Publication Forum - JUFO (Federation of Finnish Learned Societies)
+- SCImago Journal & Country Rank
+
+Journal Directories
+
+- Electronic Journals Library (EZB)
+- Research4Life
+  - AGORA
+  - Hinari
+  - OARE
+  - ARDI
+- Sherpa Romeo
+
+Repository Delivery Services
+
+- DeepGreen
+- Jisc
+
+Digital Preservation
+
+ - CLOCKSS
+ - Swiss National Library (Helveticat)
+
+Content Aggregators
+
+- Google Scholar
+- Scilit
+- WorldCat (OCLC)
+
+### [物理学报](https://wulixb.iphy.ac.cn)
+<a id="markdown-%E7%89%A9%E7%90%86%E5%AD%A6%E6%8A%A5" name="%E7%89%A9%E7%90%86%E5%AD%A6%E6%8A%A5"></a>
+
+<img src="https://wulixb.iphy.ac.cn/fileWLXB/journal/img/cover/7ca459d2-9997-46a4-8c41-920ed623a30d.jpg" width="300" alt="物理学报">
+
+#### [投稿须知](https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm)
+<a id="markdown-%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5" name="%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5"></a>
+
+《物理学报》是中国物理学会和中国科学院物理研究所主办的物理类综合性中文学术期刊，登载国内外物理学科各领域未曾公开发表的中文原创性研究论文、研究快讯、数据论文，以及前沿综述、观点文章。办刊宗旨为“立足国内，面向国际，报道和刊登物理学各学科领域的创新成果和最新进展，重点关注凝聚态物理学的科研成果。”
+
+本刊为半月刊，国内外公开发行，被 **SCI，EI，Scopus，CA，INSPEC，JICST，AJ 和MR 等国际检索系统收录，被中国科技论文与引文数据库CSTPCD（核心版）、中国科学引文数据库CSCD、北大图书馆《中文核心期刊要目》**等收录。
+
+1. 刊登范围
+
+1.1 发文领域：物理学各学科领域及其交叉学科，重点关注凝聚态物理。涵盖：凝聚态物理和材料物理；原子分子物理和光物理；统计物理、非线性物理；等离子体物理；粒子物理与核物理；物理学交叉学科，等等。
+
+1.2 文章类型：研究论文、研究快讯、综述、数据论文、观点文章。
+
+1.3 特色栏目：数据论文、仪器与测量、观点和展望。
+
+2. 文章要求
+
+...
+
+3.  版权和学术规范
+...
+4. 绿色通道
+
+为优秀原创论文、重大成果的研究快讯开通 快审、快发 的“绿色通道”。采用作者自荐加专家推荐的形式，推荐专家1-2名，可为本刊正副主编、编委或领域内具有较高学术信誉的学者。作者在投稿时选择“绿色通道”栏目，备注说明：申请绿色通道发表，同时上传专家推荐意见或自荐意见。评审优秀的文章将在最近出版的期刊刊登，最快2周发表。
+
+5. 审稿和出版周期
+
+文章从投稿到录用一般需经过编辑部初审、审稿专家外审、返修、复审、编委会终审等环节，从投稿到录用的周期平均70天左右，从投稿到出版的周期平均4个半月，网络预出版约85天左右。 作者投稿后会收到编辑部的收稿回执，投稿3个月以后若未在网上查到审稿进展的信息，可改投他刊，但须先发邮件告知编辑部（E-mail: apsoffice@iphy.ac.cn）。
+
+6. 版面费和稿酬
+
+本刊不收取审稿费，文章被正式录用后，将收取适当的版面费，同时向作者酌付稿酬，具体事宜在文章被录用后见编辑部通知。
+
+7. 增强出版
+
+与稿件相关的其他研究内容可以在投稿时，以补充材料的形式上传。补充材料可以是研究结果细节、研究过程与方法的说明、子成果、拓展成果、实验数据和实验视频等，有助于审稿专家评审和读者深入阅读，文章发表后和文章一起放在期刊网站供下载分享。
+
+...
 ### [《声学学报 / Acta Acustica》](https://www.jac.ac.cn/)
 <a id="markdown-%E3%80%8A%E5%A3%B0%E5%AD%A6%E5%AD%A6%E6%8A%A5-%2F-acta-acustica%E3%80%8B" name="%E3%80%8A%E5%A3%B0%E5%AD%A6%E5%AD%A6%E6%8A%A5-%2F-acta-acustica%E3%80%8B"></a>
 ![](https://www.jac.ac.cn/style/images/custom/logo.png)
