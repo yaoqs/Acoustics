@@ -1,5 +1,4 @@
 # Acoustics
-<a id="markdown-acoustics" name="acoustics"></a>
 
 Acoustics，声学
 
@@ -61,14 +60,13 @@ Acoustics，声学
        1. [国内外数据库收录情况](#国内外数据库收录情况)
 5. [Lab](#lab)
 6. [仿真](#仿真)
-7. [License \& Copyright](#license--copyright)
+7. [Follow.is list](#followis-list)
+8. [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
 
 ## 学术机构/Institutions - 学会/Society
-<a id="markdown-%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%2Finstitutions---%E5%AD%A6%E4%BC%9A%2Fsociety" name="%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%2Finstitutions---%E5%AD%A6%E4%BC%9A%2Fsociety"></a>
 ### [中国声学学会](https://www.aschina.org.cn/)
-<a id="markdown-%E4%B8%AD%E5%9B%BD%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A" name="%E4%B8%AD%E5%9B%BD%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A"></a>
 ![](https://www.aschina.org.cn/webfile/static/images/logo_d_19.png)
 
 中国声学学会（Acoustical Society of China，ASC）成立于1985年，是在国家民政部注册登记的全国声学科学技术工作者自愿组成的学术性、公益性、全国性的社会团体，是中国科学技术协会的组成部分。业务范围包括学术交流、科学普及、技术推广、项目论证、成果鉴定、书刊编辑、咨询服务、专业培训等。学会现下设13个专业委员会，7个工作委员会；持证会员6500余人，会士、高级会员共205人，团体会员59个。中国声学学会是独立法人单位，依托单位是中国科学院声学研究所。
@@ -78,7 +76,6 @@ Acoustics，声学
 中国声学学会每年召开的学术会议十余次，并成功地承担和召开了多次大型的国际学术会议，如2008年国际噪声控制工程大会、2009年西太平洋声学会议、2014年国际声与振动大会等，为促进我国声学事业的发展，提升学会在国际学术界的影响起到了应有的作用，已成为中国科协所属学会中具有一定影响力的一级学会。
 
 ### [ICA/国际声学学会](http://www.icacommission.org)
-<a id="markdown-ica%2F%E5%9B%BD%E9%99%85%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A" name="ica%2F%E5%9B%BD%E9%99%85%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A"></a>
 
 ![icalogo](https://www.icacommission.org/wp-content/uploads/2021/06/cropped-logo_ica_round-e1625639524292.png)
 
@@ -87,7 +84,6 @@ Acoustics，声学
 The purpose of the International Commission for Acoustics (ICA) is to promote international development and collaboration in research, development, education, and standardization in all fields of acoustics. This is accomplished primarily by providing opportunities for the exchange of information and ideas among the various international acoustics communities.
 
 ### [Acoustical Society of America](https://asa.scitation.org/) (ASA) 美国声学学会
-<a id="markdown-acoustical-society-of-america-asa-%E7%BE%8E%E5%9B%BD%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A" name="acoustical-society-of-america-asa-%E7%BE%8E%E5%9B%BD%E5%A3%B0%E5%AD%A6%E5%AD%A6%E4%BC%9A"></a>
 
 <img src="https://aipp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/asa/logo-22577267.png" width="300" alt="asa-site-logo">
 
@@ -97,7 +93,6 @@ Journal:
 - [Journal of the Acoustical Society of America 《美国声学学报》](http://scitation.aip.org/JASA)
 
 ### [Institute of Noise Control Engineering of the USA](https://www.inceusa.org/) 美国噪声控制工程学会
-<a id="markdown-institute-of-noise-control-engineering-of-the-usa-%E7%BE%8E%E5%9B%BD%E5%99%AA%E5%A3%B0%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E4%BC%9A" name="institute-of-noise-control-engineering-of-the-usa-%E7%BE%8E%E5%9B%BD%E5%99%AA%E5%A3%B0%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E4%BC%9A"></a>
 <img src="https://www.inceusa.org/INCEUSAORG/assets/Image/logo.png" width="300" alt="ince-usa-logo">
 
 INCE-USA is a non-profit professional organization whose primary purpose is to promote, through its members, noise control solutions to environmental, product, machinery, industrial and other noise problems. INCE-USA is a Member Society of the International Institute of Noise Control Engineering, an international consortium of organizations with interests in acoustics and noise control.
@@ -108,7 +103,6 @@ INCE-USA is a non-profit professional organization whose primary purpose is to p
 - INCE Digital Library
 
 ### [International Institute of Noise Control Engineering (I-INCE)](https://i-ince.org/)
-<a id="markdown-international-institute-of-noise-control-engineering-i-ince" name="international-institute-of-noise-control-engineering-i-ince"></a>
 
 Engineering A World Free From Unwanted Sound
 
@@ -119,7 +113,6 @@ The International Institute of Noise Control Engineering (I-INCE) was founded in
 I-INCE is the only organization that has a worldwide coverage of the issue of noise control technology. It has the ability to identify global noise control issues, discuss them on a global scale and communicate its findings with nearly all nations in the world. In the present connected world this might be a unique position that brings opportunities but also responsibilities.
 
 ### [American Association of Physics Teachers (AAPT)](https://www.aapt.org/) 美国物理教师学会
-<a id="markdown-american-association-of-physics-teachers-aapt-%E7%BE%8E%E5%9B%BD%E7%89%A9%E7%90%86%E6%95%99%E5%B8%88%E5%AD%A6%E4%BC%9A" name="american-association-of-physics-teachers-aapt-%E7%BE%8E%E5%9B%BD%E7%89%A9%E7%90%86%E6%95%99%E5%B8%88%E5%AD%A6%E4%BC%9A"></a>
 ![](https://www.aapt.org/images/2018/masthead-logo.gif)
 
 Journal:
@@ -127,7 +120,6 @@ Journal:
 - [The Physics Teacher 《物理教师》](http://scitation.aip.org/tpt)
 
 ### [ISCA - International Speech Communication Association](https://isca-speech.org/)
-<a id="markdown-isca---international-speech-communication-association" name="isca---international-speech-communication-association"></a>
 <img src="https://isca-speech.org/resources/Pictures/Element%203.png" width="300" alt="isca-logo">
 
 ISCA is a Nonprofit Association. The purpose of the Association is to promote speech communication science and technology in an international world-wide context.
@@ -146,7 +138,6 @@ The Association will achieve its purpose by:
 - any other means...
 
 ### [EURASIP - European Association For Signal Processing](https://eurasip.org/)
-<a id="markdown-eurasip---european-association-for-signal-processing" name="eurasip---european-association-for-signal-processing"></a>
 
 <img src="https://eurasip.org/main/wp-content/uploads/2019/09/logo.png" width="100" alt="eurasip-logo">
 
@@ -167,13 +158,11 @@ Journals
 - The overall goal of the [EURASIP Journal on Information Security](http://jis.eurasipjournals.com/), sponsored by the European Association for Signal Processing (EURASIP), is to bring together researchers and practitioners dealing with the general field of information security, with a particular emphasis on the use of signal processing tools to enable the security of digital contents. As such, it addresses any work whereby security primitives and multimedia signal processing are used together to ensure the secure access to the data. Enabling technologies include watermarking, data hiding, steganography and steganalysis, joint signal processing and encryption, perceptual hashing, identification, biometrics, fingerprinting, and digital forensics. Open-access journal published by [SpringerOpen](http://www.springeropen.com/).
 
 ## Paper/重要论著
-<a id="markdown-paper%2F%E9%87%8D%E8%A6%81%E8%AE%BA%E8%91%97" name="paper%2F%E9%87%8D%E8%A6%81%E8%AE%BA%E8%91%97"></a>
 
 - John_William_Strutt,_3rd_Baron_Rayleigh_The_theory_of_sound_(1877).pdf
   - <https://github.com/yaoqs/Acoustics/blob/master/John_William_Strutt%2C_3rd_Baron_Rayleigh_The_theory_of_sound_(1877).pdf>
 
 ## UnderWater Acoustics(UWA)/水声
-<a id="markdown-underwater-acousticsuwa%2F%E6%B0%B4%E5%A3%B0" name="underwater-acousticsuwa%2F%E6%B0%B4%E5%A3%B0"></a>
 
 - Acoustic Signal Processing for Ocean Exploration <https://link.springer.com/book/10.1007/978-94-011-1604-6>
 
@@ -182,10 +171,8 @@ Journals
 - The Journal of the Acoustical Society of America <https://asa.scitation.org/toc/jas/current?expanded=146>
 
 ## 学术期刊/Journal
-<a id="markdown-%E5%AD%A6%E6%9C%AF%E6%9C%9F%E5%88%8A%2Fjournal" name="%E5%AD%A6%E6%9C%AF%E6%9C%9F%E5%88%8A%2Fjournal"></a>
 
 ### [JASA](https://pubs.aip.org/asa/jasa/)
-<a id="markdown-jasa" name="jasa"></a>
 <img src="https://aipp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/jasa/jas_cover563601586.jpg" width="300" alt="JASA-logo">
 
 2023 Journal Citation Reports® (Clarivate, 2024)*:
@@ -199,7 +186,6 @@ Journals
 * Data from the 2023 Journal Citation Reports® Science Edition (Clarivate, 2024).
 
 #### About The Journal of the Acoustical Society of America
-<a id="markdown-about-the-journal-of-the-acoustical-society-of-america" name="about-the-journal-of-the-acoustical-society-of-america"></a>
 
 Since 1929, The Journal of the Acoustical Society of America (JASA) has been the leading source of theoretical and experimental research results in the broad interdisciplinary subject of sound.
 
@@ -233,7 +219,6 @@ The Journal of the Acoustical Society of America is indexed in the following dat
 - Crossref
 
 ### [JSV (Journal of Sound and Vibration)](https://www.sciencedirect.com/journal/journal-of-sound-and-vibration)
-<a id="markdown-jsv-journal-of-sound-and-vibration" name="jsv-journal-of-sound-and-vibration"></a>
 
 - citescore：9.1
 - impact factor：4.3
@@ -258,7 +243,6 @@ Abstracting and indexing
 - SNIP
 
 ### [Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)
-<a id="markdown-applied-acoustics" name="applied-acoustics"></a>
 
 <img src="https://ars.els-cdn.com/content/image/X0003682X.jpg" width="300" alt="Applied Acoustics-logo">
 
@@ -290,7 +274,6 @@ Abstracting and indexing
 - SNIP
 
 ### IEEE Trans. on Audio,Speech, and Language Process(IEEE TASLP)
-<a id="markdown-ieee-trans.-on-audio%2Cspeech%2C-and-language-processieee-taslp" name="ieee-trans.-on-audio%2Cspeech%2C-and-language-processieee-taslp"></a>
 - Impact Factor 4.1
 - Eigenfactor 0.00915
 - Article Influence Score 0.96
@@ -315,7 +298,6 @@ Multimedia content
 It is now possible to submit for review and publish in Xplore supporting multimedia material such as speech samples, images, movies, matlab code etc. A multimedia graphical abstract can also be displayed along with the traditional text. More information is available under Multimedia Materials at the IEEE Author Center.
 
 ### [Speech Communication](https://www.sciencedirect.com/journal/speech-communication)
-<a id="markdown-speech-communication" name="speech-communication"></a>
 <img src="https://ars.els-cdn.com/content/image/X01676393.jpg" width="300" alt="Speech Communication-logo">
 
 - CiteScore 6.8
@@ -340,7 +322,6 @@ Abstracting and indexing
 - Ei Compendex
 
 ### [Computer Speech and Language](https://www.sciencedirect.com/journal/computer-speech-and-language)
-<a id="markdown-computer-speech-and-language" name="computer-speech-and-language"></a>
 
 <img src="https://ars.els-cdn.com/content/image/X08852308.jpg" width="300" alt="Computer Speech and Language-logo">
 
@@ -362,7 +343,6 @@ Abstracting and indexing
 - Ei Compendex
 
 ### [Signal Processing](https://www.sciencedirect.com/journal/signal-processing)
-<a id="markdown-signal-processing" name="signal-processing"></a>
 <img src="https://ars.els-cdn.com/content/image/X01651684.jpg" width="300" alt="Signal Processing-logo">
 
 - CiteScore 9.2
@@ -383,12 +363,10 @@ Abstracting and indexing
 - Ei Compendex
 
 ### [EURASIP Journal on Audio Speech and Music Processing](https://asmp-eurasipjournals.springeropen.com/)
-<a id="markdown-eurasip-journal-on-audio-speech-and-music-processing" name="eurasip-journal-on-audio-speech-and-music-processing"></a>
 
 ![](https://media.springernature.com/w110/springer-static/cover/journal/13636.jpg)
 
 #### Annual Journal Metrics
-<a id="markdown-annual-journal-metrics" name="annual-journal-metrics"></a>
 Citation Impact 2023
 - Journal Impact Factor: 1.7
 - 5-year Journal Impact Factor: 1.6
@@ -435,7 +413,6 @@ Subject areas include (but are not limited to):
 - Music signal analysis, synthesis and information retrieval
 
 #### Indexing services
-<a id="markdown-indexing-services" name="indexing-services"></a>
 
 All articles published in EURASIP Journal on Audio, Speech, and Music Processing are included in:
 - ACM
@@ -454,15 +431,12 @@ All articles published in EURASIP Journal on Audio, Speech, and Music Processing
 The full text of all articles is deposited in digital archives around the world to guarantee long-term digital preservation. You can also access all articles published by SpringerOpen Central on SpringerLink.
 
 #### [Submission Guidelines](https://asmp-eurasipjournals.springeropen.com/submission-guidelines)
-<a id="markdown-submission-guidelines" name="submission-guidelines"></a>
 
 ### [EURASIP Journal on Advances in Signal Processing](https://asp-eurasipjournals.springeropen.com)
-<a id="markdown-eurasip-journal-on-advances-in-signal-processing" name="eurasip-journal-on-advances-in-signal-processing"></a>
 
 ![](https://media.springernature.com/w110/springer-static/cover/journal/13634.jpg)
 
 #### Annual Journal Metrics
-<a id="markdown-annual-journal-metrics" name="annual-journal-metrics"></a>
 Citation Impact 2023
 - Journal Impact Factor: 1.7
 - 5-year Journal Impact Factor: 1.6
@@ -500,7 +474,6 @@ Subject areas include (but are by no means limited to):
 Application areas include (but are not limited to): communications, networking, sensors and actuators, radar and sonar, medical imaging, bio-medical applications, remote sensing, consumer electronics, computer vision, pattern recognition, robotics, industrial automation, transportation, stock market and financial analysis, seismography, avionics.
 
 #### Indexing services
-<a id="markdown-indexing-services" name="indexing-services"></a>
 
 All articles published in EURASIP Journal on Advances in Signal Processing are included in:
 
@@ -519,15 +492,12 @@ All articles published in EURASIP Journal on Advances in Signal Processing are i
 The full text of all articles is deposited in digital archives around the world to guarantee long-term digital preservation. You can also access all articles published by BioMed Central on SpringerLink.
 
 #### [Submission Guidelines](https://asp-eurasipjournals.springeropen.com/submission-guidelines)
-<a id="markdown-submission-guidelines" name="submission-guidelines"></a>
 
 ### [IEEE Transactions on Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing)
-<a id="markdown-ieee-transactions-on-signal-processing" name="ieee-transactions-on-signal-processing"></a>
 
 ![](https://signalprocessingsociety.org/sites/default/files/styles/225_wide/public/TSP_cover.jpg?itok=9cwsbOSi)
 
 #### Journal Citation Metrics
-<a id="markdown-journal-citation-metrics" name="journal-citation-metrics"></a>
 
 - Impact Factor: 4.6
 - Eigenfactor™ Score: 0.03593
@@ -535,31 +505,26 @@ The full text of all articles is deposited in digital archives around the world 
 - CiteScore: 11.2
 
 #### [Submit Manuscript](http://mc.manuscriptcentral.com/sps-ieee)
-<a id="markdown-submit-manuscript" name="submit-manuscript"></a>
 
 - [Author Center](http://ieeeauthorcenter.ieee.org/)
 - [Submission Guidelines](http://ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/the-ieee-article-submission-process/)
 
 #### [Scope](https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/about-ieee-transactions-signal-processing)
-<a id="markdown-scope" name="scope"></a>
 
 The IEEE Transactions on Signal Processing covers novel theory, algorithms, performance analyses and applications of techniques for the processing, understanding, learning, retrieval, mining, and extraction of information from signals. The term “signal” includes, among others, audio, video, speech, image, communication, geophysical, sonar, radar, medical and musical signals. Examples of topics of interest include, but are not limited to, information processing and the theory and application of filtering, coding, transmitting, estimating, detecting, analyzing, recognizing, synthesizing, recording, and reproducing signals.
 
 The scope is reflected in the EDICS: the Editors' Information Classification Scheme.
 The Transactions publish original, timely and significant contributions. Submissions must be previously unpublished and may not be under considerations elsewhere. Technical papers are submitted via ScholarOne Manuscripts (see Author`s Instructions). Please consider the journal with the most appropriate scope for your submission.
 #### Abstracts and indexing
-<a id="markdown-abstracts-and-indexing" name="abstracts-and-indexing"></a>
 
 The Transactions is listed in AMS MathSciNet (Mathematical Reviews Database), Current Contents (Engineering, Computing & Technology, Electronics & Telecommunications Collection), CompuMath citation index, EI Compendex, IEE INSPEC, ISI Science Citation Index, ISI SciSearch, Scitation Research Alerts, PubMed, and Medline.
 
 ### [IEEE Signal Processing Letter](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters)
-<a id="markdown-ieee-signal-processing-letter" name="ieee-signal-processing-letter"></a>
 
 ![](https://signalprocessingsociety.org/sites/default/files/styles/225_wide/public/SPL_cover_0.jpg?itok=tPbHuQyE)
 
 
 #### Journal Citation Score
-<a id="markdown-journal-citation-score" name="journal-citation-score"></a>
 
 - Impact Factor: 3.2
 - Eigenfactor™ Score: 0.01892
@@ -567,13 +532,11 @@ The Transactions is listed in AMS MathSciNet (Mathematical Reviews Database), Cu
 - CiteScore: 7.4
 
 #### [Submit Manuscript](http://mc.manuscriptcentral.com/sps-ieee)
-<a id="markdown-submit-manuscript" name="submit-manuscript"></a>
 
 - [Author Center](http://ieeeauthorcenter.ieee.org/)
 - [Submission Guidelines](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97)
 
 #### [Scope](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/about-sp-letters)
-<a id="markdown-scope" name="scope"></a>
 
 The IEEE Signal Processing Letters is a monthly, archival publication designed to provide rapid dissemination of original, cutting-edge ideas and timely, significant contributions in signal, image, speech, language and audio processing. Papers published in the Letters can be presented within one year of their appearance in signal processing conferences such as ICASSP, GlobalSIP and ICIP, and also in several workshop organized by the Signal Processing Society.
 
@@ -585,7 +548,6 @@ Reproducible research
 
 The Transactions encourages authors to make their publications reproducible by making all information needed to reproduce the presented results available online. This typically requires publishing the code and data used to produce the publication`s figures and tables on a website; see the supplemental materials section of the information for authors. It gives other researchers easier access to the work, and facilitates fair comparisons.
 ### [Proceedings of Meetings on Acoustics (POMA)](https://pubs.aip.org/asa/poma)
-<a id="markdown-proceedings-of-meetings-on-acoustics-poma" name="proceedings-of-meetings-on-acoustics-poma"></a>
 <img src="https://aipp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/poma/poma_cover-1478129360.jpg" width="300" alt="Proceedings of Meetings on Acoustics (POMA)">
 
 Proceedings of Meetings on Acoustics (POMA) is an editor-reviewed, open-access, online journal published by the Acoustical Society of America (ASA). Articles originate as papers presented at semiannual ASA meetings or at other cosponsored meetings. Researchers and practitioners are encouraged to submit manuscripts to POMA. Because of rapid editorial processing, POMA offers a timely venue for viewing the most current work in the broad field of acoustics. An associate editor reviews all manuscripts for clarity and correctness, and accepted manuscripts are published online as soon as possible.
@@ -612,26 +574,22 @@ ISSN
 
 Online ISSN: 1939-800X
 #### Proceedings of Meetings on Acoustics is indexed in the following databases:
-<a id="markdown-proceedings-of-meetings-on-acoustics-is-indexed-in-the-following-databases%3A" name="proceedings-of-meetings-on-acoustics-is-indexed-in-the-following-databases%3A"></a>
 
 - Scopus
 - Crossref
 
 #### publish
-<a id="markdown-publish" name="publish"></a>
 
 - [Submit Your Manuscript](https://www.editorialmanager.com/poma/default.aspx)
 - [Preparing Your Manuscript](https://pubs.aip.org/asa/poma/pages/manuscript)
 - [Author Services](https://authorservices.aip.org/): Submit your scientific research paper with confidence. Our manuscript editing and translation services will maximize your chances of publication success.
 
 ### [Acoustics](https://www.mdpi.com/journal/acoustics)
-<a id="markdown-acoustics" name="acoustics"></a>
 
 ![](https://pub.mdpi-res.com/img/journals/acoustics-logo.png)
 
 
 #### Impact Factor:
-<a id="markdown-impact-factor%3A" name="impact-factor%3A"></a>
 - Impact Factor: 1.3 (2023); 5-Year Impact Factor: 1.9 (2023)
 - CiteScore: 3.7 (2023)
 
@@ -644,7 +602,6 @@ Acoustics is an international, peer-reviewed, open access journal on acoustics s
 - Recognition of Reviewers: reviewers who provide timely, thorough peer-review reports receive vouchers entitling them to a discount on the APC of their next publication in any MDPI journal, in appreciation of the work done.
 
 #### [Aims & Scope](https://www.mdpi.com/journal/acoustics/about)
-<a id="markdown-aims-%26-scope" name="aims-%26-scope"></a>
 
 Acoustics (ISSN 2624-599X) is dedicated to the scientific dissemination of rigorously peer-reviewed publications regarding acoustics. The journal aims to provide an interdisciplinary forum to showcase state-of-the-art research challenges on acoustics science and engineering. Acoustics publishes various types of papers, including technical notes, case reports, and project reports on analysis of acoustic engineering projects. There is no restriction on the maximum length of the papers, however, the full experimental details must be provided so that results can be reproduced. In addition, one unique feature of this journal is:
 Electronic files supplying details of calculations and experimental procedures as well as sound and video files can be deposited as supplementary materials.
@@ -668,10 +625,8 @@ Scope
 - Psychoacoustics
 - AI in sound and vibration
 #### [Instructions for Authors](https://www.mdpi.com/journal/acoustics/instructions)
-<a id="markdown-instructions-for-authors" name="instructions-for-authors"></a>
 
 #### [Indexing & Archiving](https://www.mdpi.com/journal/acoustics/indexing)
-<a id="markdown-indexing-%26-archiving" name="indexing-%26-archiving"></a>
 
 Indexing & Abstracting Services
 
@@ -725,12 +680,10 @@ Content Aggregators
 - WorldCat (OCLC)
 
 ### [物理学报](https://wulixb.iphy.ac.cn)
-<a id="markdown-%E7%89%A9%E7%90%86%E5%AD%A6%E6%8A%A5" name="%E7%89%A9%E7%90%86%E5%AD%A6%E6%8A%A5"></a>
 
 <img src="https://wulixb.iphy.ac.cn/fileWLXB/journal/img/cover/7ca459d2-9997-46a4-8c41-920ed623a30d.jpg" width="300" alt="物理学报">
 
 #### [投稿须知](https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm)
-<a id="markdown-%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5" name="%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5"></a>
 
 《物理学报》是中国物理学会和中国科学院物理研究所主办的物理类综合性中文学术期刊，登载国内外物理学科各领域未曾公开发表的中文原创性研究论文、研究快讯、数据论文，以及前沿综述、观点文章。办刊宗旨为“立足国内，面向国际，报道和刊登物理学各学科领域的创新成果和最新进展，重点关注凝聚态物理学的科研成果。”
 
@@ -768,7 +721,6 @@ Content Aggregators
 
 ...
 ### [《声学学报 / Acta Acustica》](https://www.jac.ac.cn/)
-<a id="markdown-%E3%80%8A%E5%A3%B0%E5%AD%A6%E5%AD%A6%E6%8A%A5-%2F-acta-acustica%E3%80%8B" name="%E3%80%8A%E5%A3%B0%E5%AD%A6%E5%AD%A6%E6%8A%A5-%2F-acta-acustica%E3%80%8B"></a>
 ![](https://www.jac.ac.cn/style/images/custom/logo.png)
 
 <img src="https://www.jac.ac.cn/catalog/cover/current" width="300" alt="《声学学报 / Acta Acustica》">
@@ -782,7 +734,6 @@ Content Aggregators
 《声学学报》现为双月刊，面向国内外公开发行，ISSN 0371-0025，CN 11-2065/O4，邮发代号2-181。
 
 #### 收录情况
-<a id="markdown-%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5" name="%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5"></a>
 
 - EI (工程索引)
 - 中文核心期刊要目总览
@@ -794,7 +745,6 @@ Content Aggregators
 - WJCI (世界期刊影响力指数报告)
 
 ### [应用声学](http://yysx.cnjournals.cn/ch/index.aspx)
-<a id="markdown-%E5%BA%94%E7%94%A8%E5%A3%B0%E5%AD%A6" name="%E5%BA%94%E7%94%A8%E5%A3%B0%E5%AD%A6"></a>
 <img src="http://yysx.cnjournals.cn/download_upload_file.aspx?file_name=/uploadfile/cover/yysx/2024_4_small.jpg" width="300" alt="应用声学">
 
 《应用声学》是由中国科学院主管，中国科学院声学研究所主办，中国声学学会、《应用声学》编辑委员会编辑出版的学术刊物。1982年创刊，双月刊，国内外公开发行。办刊的宗旨是繁荣应用声学事业，促进新成果的开发与推广，加强科研、工程技术人员与生产实践者之间的相互了解和合作。《应用声学》多年来被国内重要检索系统收录，是中国科技核心期刊、中文核心期刊。刊载声学领域中具有创新性、应用性和应用基础性的研究论文、综述评论、报道新研究成果和产业化新技术的进展。主要栏目有：应用声学论坛、综述与评论、研究报告、研究简报、综合报道、知识介绍、新书评介、动态·信息。
@@ -806,13 +756,11 @@ Content Aggregators
 　　With Postal Registration No. of BM607 for overseas issues, the journal is scheduled for publication every odd-number month.
 
 #### 收录情况
-<a id="markdown-%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5" name="%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5"></a>
 - 中文核心期刊要目总览
 - 中文科技核心期刊
 - 中国科学引文数据库来源期刊
 
 ### [声学技术](http://sxjs.cnjournals.cn/ch/index.aspx)
-<a id="markdown-%E5%A3%B0%E5%AD%A6%E6%8A%80%E6%9C%AF" name="%E5%A3%B0%E5%AD%A6%E6%8A%80%E6%9C%AF"></a>
 <img src="http://sxjs.cnjournals.cn/uploadfile/sxjs/20201117/%E5%A3%B0%E5%AD%A6%E6%8A%80%E6%9C%AF-2006%E5%B9%B4%E5%B0%81%E9%9D%A2.jpg" alt="声学技术" width="300" />
 
 20世纪70年代，中科院东海研究站组织了一些科技人员，对当时国外水声科技前沿的学术论文进行翻译，以便内部学习交流，经上海市科委同意，出版了《水声译丛》内部刊物。
@@ -828,7 +776,6 @@ Content Aggregators
 《声学技术》的办刊宗旨是：在声学专业领域内进行科研、技术交流；开展学术讨论与评述；介绍国内外新技术和新产品；促进声学事业的发展，并为声学科研、生产和教学人员知识创新服务。专业范围包括：超声学、生物医学超声学、电声学、水声学、海洋声学技术、建筑声学、噪声控制、生理和心理声学、声信号处理、换能器和声系统等。
 
 #### 国内外数据库收录情况
-<a id="markdown-%E5%9B%BD%E5%86%85%E5%A4%96%E6%95%B0%E6%8D%AE%E5%BA%93%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5" name="%E5%9B%BD%E5%86%85%E5%A4%96%E6%95%B0%E6%8D%AE%E5%BA%93%E6%94%B6%E5%BD%95%E6%83%85%E5%86%B5"></a>
 
 - 美国《乌利希期刊指南》(Ulrich PD,Ulrich's Periodicals Directory)
 - 波兰《哥白尼索引》(IC, Index of Copurnicus)
@@ -844,12 +791,10 @@ Content Aggregators
 - 万方数据知识服务平台
 
 ## Lab
-<a id="markdown-lab" name="lab"></a>
 
 - [sound lab @ princeton](https://soundlab.cs.princeton.edu/)
 
 ## 仿真
-<a id="markdown-%E4%BB%BF%E7%9C%9F" name="%E4%BB%BF%E7%9C%9F"></a>
 
 - [SimWe仿真论坛](http://forum.simwe.com/) 仿真、设计、有限元、虚拟仪器
 - ~~[振动论坛](http://www.chinavib.com/forum/index.php) 动力学,噪声~~
@@ -865,12 +810,15 @@ Content Aggregators
 
 - [艾默生旗下测试和测量系统 - NI](https://www.ni.com/zh-cn.html)
 
+## Follow.is list
+
+[Acoustics](https://app.follow.is/share/lists/121458083591684096)
+
 ## License & Copyright
-<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
 [![GitHub license](https://badgen.net/github/license/yaoqs/Acoustics)](https://github.com/yaoqs/Acoustics/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Acoustics.svg)](https://github.com/yaoqs/Acoustics/blob/master/LICENSE)
 
-- 版权声明：Copyright © 2019-2024 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 版权声明：Copyright © 2019-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
